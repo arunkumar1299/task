@@ -1,0 +1,6 @@
+BitBucket is more flexible than GitHub
+BitBucket gives you unlimited private repositories
+BitBucket has better pricing for private work.
+BitBucket is a trustworthy.
+Smarter semntic searching.
+BitBucket has a powerful jira integertion.
